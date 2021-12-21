@@ -2,4 +2,4 @@
 
 Esse é um projeto de treino React.
 
-This is a train React project.
+This is a training React project.
